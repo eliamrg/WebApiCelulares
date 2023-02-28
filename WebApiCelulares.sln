@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCelulares", "WebApiCelulares\WebApiCelulares.csproj", "{B57D3D46-932A-40D3-A595-2564782DCF23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57D3D46-932A-40D3-A595-2564782DCF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57D3D46-932A-40D3-A595-2564782DCF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57D3D46-932A-40D3-A595-2564782DCF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57D3D46-932A-40D3-A595-2564782DCF23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDCA5D57-7EA2-44D4-A28E-86A4951B52D7}
+	EndGlobalSection
+EndGlobal
