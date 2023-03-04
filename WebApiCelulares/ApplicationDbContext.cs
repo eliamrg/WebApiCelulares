@@ -9,6 +9,7 @@ namespace WebApiCelulares
         { 
         
         }
-        public DbSet<Celular> Celulares { get; set;}
+        public DbSet<Celular> Celular { get; set;}
+        public DbSet<Marca> Marca { get; set; }
     }
 }
